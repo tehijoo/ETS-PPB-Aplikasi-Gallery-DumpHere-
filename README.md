@@ -244,6 +244,7 @@ Proyek ini dibuat sebagai bagian dari tugas **ETS PPB (Evaluasi Tengah Semester 
 ## Author
 
 ALYA RAHMATILLAH MACHMUD - 5025231315
+
 THALYTA VIUS PRAMESTI - 5025231055  
 Departemen: Teknik Informatika  
 Mata Kuliah: Pemrograman Perangkat Bergerak B (PPB B)  
