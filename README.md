@@ -246,7 +246,7 @@ Proyek ini dibuat sebagai bagian dari tugas **ETS PPB (Evaluasi Tengah Semester 
 ALYA RAHMATILLAH MACHMUD - 5025231315<br>
 THALYTA VIUS PRAMESTI - 5025231055  
 Departemen: Teknik Informatika  
-Mata Kuliah: Pemrograman Perangkat Bergerak B (PPB B)  
+Mata Kuliah: Pemrograman Perangkat Bergerak C (PPB C)  
 Tugas: ETS - Aplikasi Gallery DumpHere
 
 ## Support
